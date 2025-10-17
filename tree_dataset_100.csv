@@ -1,0 +1,101 @@
+id,species,height_m,circumference_cm,year_planted,borough
+1,Tilia cordata,10.6,111,2003,Eastside
+2,Acer platanoides,18.2,55,2006,Westside
+3,Ulmus minor,7.2,60,1988,Westside
+4,Platanus × acerifolia,7.1,203,1988,Eastside
+5,Platanus × acerifolia,22.1,226,1985,Westside
+6,Fraxinus excelsior,16.1,101,2010,Downtown
+7,Betula pendula,11.7,201,2006,Northside
+8,Acer platanoides,12.0,163,2020,Eastside
+9,Prunus avium,20.7,246,1987,Eastside
+10,Ulmus minor,17.1,145,2000,Downtown
+11,Aesculus hippocastanum,15.7,108,1991,Southend
+12,Prunus avium,16.0,55,2011,Northside
+13,Tilia cordata,5.2,166,2009,Westside
+14,Ulmus minor,24.1,84,2017,Southend
+15,Fagus sylvatica,11.1,68,1994,Eastside
+16,Aesculus hippocastanum,10.6,196,2000,Downtown
+17,Quercus robur,19.3,42,2006,Northside
+18,Tilia cordata,17.7,171,2001,Westside
+19,Fagus sylvatica,21.6,131,2012,Eastside
+20,Acer platanoides,9.3,198,2019,Eastside
+21,Ulmus minor,11.2,159,1984,Westside
+22,Aesculus hippocastanum,9.4,242,2015,Southend
+23,Betula pendula,19.4,156,2022,Westside
+24,Tilia cordata,6.8,281,1988,Downtown
+25,Ulmus minor,15.5,113,2009,Westside
+26,Aesculus hippocastanum,18.1,298,1982,Northside
+27,Aesculus hippocastanum,8.3,108,1990,Northside
+28,Prunus avium,16.6,297,1987,Westside
+29,Aesculus hippocastanum,6.0,179,1989,Downtown
+30,Platanus × acerifolia,23.1,174,1984,Southend
+31,Fagus sylvatica,23.6,157,1982,Westside
+32,Prunus avium,7.4,190,1991,Eastside
+33,Tilia cordata,13.1,286,1995,Downtown
+34,Fraxinus excelsior,7.7,94,2020,Eastside
+35,Fagus sylvatica,15.9,256,1997,Downtown
+36,Aesculus hippocastanum,24.9,215,1987,Northside
+37,Fraxinus excelsior,18.6,74,1989,Westside
+38,Tilia cordata,22.2,175,2000,Eastside
+39,Ulmus minor,12.6,101,2000,Southend
+40,Betula pendula,11.6,237,1988,Eastside
+41,Acer platanoides,22.0,49,2018,Westside
+42,Ulmus minor,6.7,248,2016,Westside
+43,Ulmus minor,20.3,196,2006,Southend
+44,Fraxinus excelsior,21.0,129,2001,Northside
+45,Fraxinus excelsior,14.7,202,2009,Westside
+46,Aesculus hippocastanum,19.2,55,2018,Downtown
+47,Acer platanoides,20.6,43,2012,Westside
+48,Quercus robur,22.9,155,1998,Westside
+49,Quercus robur,19.1,55,1993,Westside
+50,Platanus × acerifolia,8.6,131,2018,Westside
+51,Fagus sylvatica,17.6,234,1981,Northside
+52,Platanus × acerifolia,23.7,276,2015,Eastside
+53,Tilia cordata,22.0,116,2015,Westside
+54,Aesculus hippocastanum,5.8,149,2021,Southend
+55,Acer platanoides,10.3,199,1981,Eastside
+56,Aesculus hippocastanum,11.4,113,1984,Northside
+57,Ulmus minor,21.0,283,2001,Eastside
+58,Prunus avium,11.2,80,1989,Southend
+59,Ulmus minor,15.9,167,2002,Northside
+60,Fagus sylvatica,21.5,151,1989,Northside
+61,Quercus robur,5.0,248,2004,Southend
+62,Fraxinus excelsior,20.8,107,1986,Northside
+63,Platanus × acerifolia,13.5,183,1981,Eastside
+64,Prunus avium,11.5,199,2010,Southend
+65,Acer platanoides,22.2,247,2014,Downtown
+66,Acer platanoides,16.1,60,2008,Eastside
+67,Prunus avium,14.9,280,1980,Westside
+68,Quercus robur,21.5,121,2021,Northside
+69,Fagus sylvatica,14.7,113,1993,Eastside
+70,Tilia cordata,5.0,278,2012,Westside
+71,Prunus avium,6.6,228,2000,Downtown
+72,Ulmus minor,17.8,61,1982,Downtown
+73,Acer platanoides,12.7,213,2015,Downtown
+74,Platanus × acerifolia,12.0,90,2013,Northside
+75,Ulmus minor,21.8,178,1994,Downtown
+76,Ulmus minor,23.4,201,1989,Northside
+77,Betula pendula,10.2,107,2001,Eastside
+78,Ulmus minor,24.6,218,1980,Eastside
+79,Fraxinus excelsior,17.6,251,2003,Southend
+80,Tilia cordata,20.6,244,2006,Southend
+81,Tilia cordata,10.4,279,1986,Westside
+82,Prunus avium,19.7,132,1981,Northside
+83,Betula pendula,5.9,220,2001,Westside
+84,Fraxinus excelsior,18.5,207,2002,Downtown
+85,Prunus avium,14.2,277,2004,Westside
+86,Fagus sylvatica,15.0,261,1982,Southend
+87,Fagus sylvatica,21.4,224,2008,Southend
+88,Prunus avium,16.8,142,2007,Westside
+89,Fraxinus excelsior,11.8,150,2021,Westside
+90,Platanus × acerifolia,12.0,273,1988,Downtown
+91,Acer platanoides,12.5,40,2009,Downtown
+92,Ulmus minor,21.9,269,2002,Eastside
+93,Platanus × acerifolia,24.3,98,2003,Eastside
+94,Tilia cordata,16.3,194,2000,Northside
+95,Prunus avium,7.1,223,1993,Downtown
+96,Fraxinus excelsior,8.6,215,1984,Westside
+97,Tilia cordata,15.3,246,2015,Westside
+98,Fraxinus excelsior,16.4,249,2018,Downtown
+99,Quercus robur,11.7,96,1988,Westside
+100,Fraxinus excelsior,14.5,193,2004,Downtown
